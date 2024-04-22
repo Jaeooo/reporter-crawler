@@ -1,0 +1,5 @@
+venv/
+test_codes/
+*.txt
+chromedriver
+main.py
